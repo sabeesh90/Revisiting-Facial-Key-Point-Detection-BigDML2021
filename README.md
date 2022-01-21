@@ -1,6 +1,9 @@
 # Revisiting Facial Keypoint Detection – An Efficient Approach Using Deep Neural Networks
 
 ### This paper was presented at Big DML 2021. [FKPD_BigDML_Submission-Final.pdf](https://github.com/sabeesh90/Imputation_vs_Augmentation_Facial_Key_Point_Detection/files/7785657/FKPD_BigDML_Submission-Final.pdf)
+
+[BigDML_Paper96_FKPD_Final.pptx](https://github.com/sabeesh90/Imputation_vs_Augmentation_Facial_Key_Point_Detection/files/7914956/BigDML_Paper96_FKPD_Final.pptx)
+
 ### Authors - Pratima Dileep, Bharath Kumar Bolla, Sabeesh E
 
 <img src="https://user-images.githubusercontent.com/48343095/147588912-2c0ca3da-e72e-4120-ab60-9f48bdd9a02c.png"  width="500"  height = "600"/>
